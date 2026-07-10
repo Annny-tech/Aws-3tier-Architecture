@@ -33,5 +33,3 @@
 ## 16. Testing
 
 ## 17. Troubleshooting
-
-this is the repo we have worked in .
