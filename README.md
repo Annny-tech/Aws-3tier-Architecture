@@ -381,8 +381,3 @@ Configured NAT Gateway and updated Route Tables.
 - CI/CD Pipeline using GitHub Actions
 
 ---
-
-# Author
-
-Anuj
-DevOps | AWS | Cloud Computing
